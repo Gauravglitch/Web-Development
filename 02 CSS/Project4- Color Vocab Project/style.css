@@ -1,0 +1,28 @@
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#yellow{
+    color: yellow;
+}
+#green{
+    color: green;
+}
+#orange{
+    color: orange;
+}
+h2{
+    font-weight: normal;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+hr{
+    border-style: dotted none none;
+    width: 60px;
+    border-color: rgb(131, 130, 130);
+    border-width: 10px;
+}
